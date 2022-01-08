@@ -1,0 +1,50 @@
+body
+{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    background-color: #659fb1;
+}
+
+#title_div
+{
+    font-family: 'Sacramento', cursive;
+    background-color: #F39189;
+    height: 110px;
+    width: 600px;
+    border-radius: 20px;
+    vertical-align: middle;
+    border: 5px outset #BB8082;
+}
+
+h2
+{
+    font-size: 60px;
+}
+
+span
+{
+    font-size: 25px !important;
+    font-weight: 800;
+    margin-right: 10px;
+    width: 100px;
+    background-color: #6c82aa !important;
+    border: none !important;
+}
+
+#webcam_div, #webcam_results_div
+{
+    background-color: #F39189;
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    vertical-align: middle;
+}
+
+#capture_button, #identify_button
+{
+    width: 200px;
+    background-color: #6E7582;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
